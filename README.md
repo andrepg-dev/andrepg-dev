@@ -30,9 +30,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreponce3322&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/andreponce3322/github-readme-stats)
 
 
-https://www.instagram.com/a.n.d.r.e.p.o.n.c.e/
-https://www.linkedin.com/in/andre-ponce-242498181/
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
