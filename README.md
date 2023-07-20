@@ -10,9 +10,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | TypeScript | Python |NodeJS  
-- 🌐 &nbsp; Full-Stack | Angular+2 | HTML5 | CSS3 | JavaScript | Bootstrap | Sass | Tailwind 
-- 🛢 &nbsp; MySQL | Firebase | Postman
+- 💻 &nbsp; JavaScript | TypeScript |  
+- 🌐 &nbsp; Full-Stack | Angular+2 | HTML5 | CSS3 | JavaScript | Bootstrap | Tailwind |
+- 🛢 &nbsp; MySQL | Firebase | Postman | MongoDB | Express |
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andreponce3322&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
