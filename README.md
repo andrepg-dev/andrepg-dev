@@ -12,7 +12,7 @@
 
 - 💻 &nbsp; JavaScript | TypeScript |  
 - 🌐 &nbsp; Full-Stack | Angular+2 | HTML5 | CSS3 | JavaScript | Bootstrap | Tailwind |
-- 🛢 &nbsp; MySQL | Firebase | Postman | MongoDB | Express |
+- 🛢 &nbsp; MySQL | Firebase | MongoDB | Express |
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andreponce3322&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
