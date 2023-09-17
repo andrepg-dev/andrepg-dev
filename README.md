@@ -14,7 +14,7 @@
 - 🌐 &nbsp; Full-Stack | Angular+2 | HTML5 | CSS3 | JavaScript | Bootstrap | Tailwind |
 - 🛢 &nbsp; MySQL | Firebase | MongoDB | Express |
 
-  <p align="center" style="margin-top: 1rem;">
+  <p align="center" style="margin-top: 2.3rem;">
     &nbsp; <a href="https://twitter.com/AndrePonc_e" target="_blank"
       rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
     &nbsp; <a href="https://www.instagram.com/a.n.d.r.e.p.o.n.c.e" target="_blank"
