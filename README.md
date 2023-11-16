@@ -7,15 +7,15 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; I'm currrenly studying at **Universidad Nacional Autónoma de Honduras (UNAH)**
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🔭 &nbsp; I’m currently learning React & Next.js for Development
+- 🔭 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 📖 &nbsp; I’m currently learning React & Next.js for Development
 - 🌱 &nbsp; Enthusiast in full-Stack.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | TypeScript |  
 - 🌐 &nbsp; Angular+2 | HTML5 | CSS3 | JavaScript | Bootstrap | Tailwind | Next.js | React |
-- 🛢 &nbsp; MySQL | Firebase | MongoDB | Express | Mongoose |
+- ⚙️ &nbsp; MySQL | Firebase | MongoDB | Express | Mongoose |
 </div>
 
   <p align="center" style="margin-top: 3rem;">
