@@ -7,9 +7,9 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; I'm currrenly studying at **Universidad Nacional Autónoma de Honduras (UNAH)**
-- 🔭 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🔭 &nbsp; Exploring new technologies and developing software solutions and quick hacks
 - 📖 &nbsp; I’m currently learning React & Next.js for Development
-- 🌱 &nbsp; Enthusiast in full-Stack.
+- 🌱 &nbsp; Enthusiast in full-Stack
 
 <h3>🛠 Tech Stack</h3>
 
