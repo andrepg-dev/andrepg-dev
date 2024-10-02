@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm André</h1>
-<p align="center">A Passionate Software Developer based in Honduras.</p>
+<h4 align="center">Hi 👋, I'm André</h4>
+<p align="center">A Passionate Software Developer</p>
 <div>
   
 <h3> 👨🏻‍💻 About Me </h3>
