@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm André</h1>
-<p align="center">A Passionate Software Developer From Honduras </p>
-
+<p align="center">A Passionate Software Developer based in Honduras.</p>
 <div>
+  
 <h3> 👨🏻‍💻 About Me </h3>
-
-- 🎓 &nbsp; I'm currrenly studying at **Universidad Nacional Autónoma de Honduras (UNAH)**
+  
 - 🔭 &nbsp; Exploring new technologies and developing software solutions and quick hacks
 - 📖 &nbsp; I’m currently learning React & Next.js for Development
 - 🌱 &nbsp; Enthusiast in full-Stack
@@ -13,7 +12,7 @@
 
 - 💻 &nbsp; JavaScript | TypeScript |  
 - 🌐 &nbsp; Angular+2 | HTML5 | CSS3 | JavaScript | Bootstrap | Tailwind | Next.js | React |
-- ⚙️ &nbsp; MySQL | Firebase | MongoDB | Express | Mongoose |
+- ⚙️ &nbsp; MySQL | Firebase | MongoDB | Express | Mongoose | AWS
 </div>
 
   <p align="center" style="margin-top: 4.5rem;">
