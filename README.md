@@ -26,4 +26,4 @@
       rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
   </p>
 
-⭐️ From [andreponce3322](https://github.com/andrepg-dev)
+⭐️ From [andrepg-dev](https://github.com/andrepg-dev)
