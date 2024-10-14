@@ -26,4 +26,7 @@
       rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
   </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrepg-dev&theme=radical)](https://git.io/streak-stats)
+![GitHub last commit](https://img.shields.io/github/last-commit/andrepg-dev/andrepg-dev)
+
 ⭐️ From [andrepg-dev](https://github.com/andrepg-dev)
