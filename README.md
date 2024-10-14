@@ -16,7 +16,7 @@
 </div>
 
 <div style="margin-top: 1rem; margin-bottom: 1rem;">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrepg-dev&theme=radical)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrepg-dev&theme=radical)](https://git.io/streak-stats)
 </div>
 
   <p align="center" style="margin-top: 4.5rem;">
