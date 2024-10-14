@@ -11,17 +11,17 @@ const app = express()
 
 app.get('/', (req, res) => {
   const andrepg_dev = {
-    inlovewith: [Typescript, Javascript],
+    inlovewith: ['Typescript', 'Javascript'],
     tools: [
-      Angular,
-      React,
-      Next.js,
-      Node,
-      Express,
-      MongoDB,
-      MySQL,
-      Firebase,
-      AWS,
+      'Angular',
+      'React',
+      'Next.js',
+      'Node',
+      'Express',
+      'MongoDB',
+      'MySQL',
+      'Firebase',
+      'AWS',
     ],
     portfolio: 'https://andrepg.vercel.app/',
     contact: {
