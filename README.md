@@ -1,34 +1,45 @@
-<h1 align="center">Hi 👋, I'm André</h1>
-<p align="center">A Passionate Software Developer</p>
-<div>
-  
-<h3> 👨🏻‍💻 About Me </h3>
-  
-- 🔭 &nbsp; Exploring new technologies and developing software solutions and quick hacks
-- 📖 &nbsp; I’m currently learning React & Next.js for Development
-- 🌱 &nbsp; Enthusiast in full-Stack
+# Hi, I'm André! 👋
 
-<h3>🛠 Tech Stack</h3>
+###### Full-Stack Developer | Software Engineer | Computer Science Student
 
-- 💻 &nbsp; JavaScript | TypeScript |  
-- 🌐 &nbsp; Angular+2 | HTML5 | CSS3 | JavaScript | Bootstrap | Tailwind | Next.js | React |
-- ⚙️ &nbsp; MySQL | Firebase | MongoDB | Express | Mongoose | AWS
-</div>
+> "The best way to predict the future is to build it."
 
+```javascript
+import express from 'express'
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrepg-dev&theme=radical)](https://git.io/streak-stats)
+const app = express()
 
-  <p align="center" style="margin-top: 4.5rem;">
-    &nbsp; <a href="https://twitter.com/AndrePonc_e" target="_blank"
-      rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
-    &nbsp; <a href="https://www.instagram.com/a.n.d.r.e.p.o.n.c.e" target="_blank"
-      rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
-    &nbsp; <a href="https://www.linkedin.com/in/andre-ponce-242498181" target="_blank"
-      rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-    &nbsp; <a href="mailto:asponceg@unah.hn" target="_blank"
-      rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-  </p>
+app.get('/', (req, res) => {
+  const andrepg_dev = {
+    inlovewith: [Typescript, Javascript],
+    tools: [
+      Angular,
+      React,
+      Next.js,
+      Node,
+      Express,
+      MongoDB,
+      MySQL,
+      Firebase,
+      AWS,
+    ],
+    portfolio: 'https://andrepg.vercel.app/',
+    contact: {
+      linkedin: 'https://www.linkedin.com/in/andreponceg/',
+      email: 'jobs.andreponce@gmail.com',
+    },
+  }
+
+  res.json(andrepg_dev) // :)
+})
+
+app.listen(3000, () => {
+  console.log('Server running on port 3000')
+})
+```
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrepg-dev&theme=radical)](https://git.io/streak-stats)
 
 ⭐️ From [andrepg-dev](https://github.com/andrepg-dev)
-![GitHub last commit](https://img.shields.io/github/last-commit/andrepg-dev/andrepg-dev)
 
+![GitHub last commit](https://img.shields.io/github/last-commit/andrepg-dev/andrepg-dev)
