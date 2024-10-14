@@ -15,8 +15,9 @@
 - ⚙️ &nbsp; MySQL | Firebase | MongoDB | Express | Mongoose | AWS
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrepg-dev&theme=radical)](https://git.io/streak-stats)
-![GitHub last commit](https://img.shields.io/github/last-commit/andrepg-dev/andrepg-dev)
+<div style="margin-top: 1rem; margin-bottom: 1rem;">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrepg-dev&theme=radical)](https://git.io/streak-stats)
+</div>
 
   <p align="center" style="margin-top: 4.5rem;">
     &nbsp; <a href="https://twitter.com/AndrePonc_e" target="_blank"
@@ -30,3 +31,5 @@
   </p>
 
 ⭐️ From [andrepg-dev](https://github.com/andrepg-dev)
+![GitHub last commit](https://img.shields.io/github/last-commit/andrepg-dev/andrepg-dev)
+
