@@ -1,6 +1,6 @@
 # Hi, I'm André! 👋
 
-#### Full-Stack Developer | Software Engineer | Computer Science Student
+#### Full-Stack Developer | Software Engineer 
 
 > "The best way to predict the future is to build it."
 
