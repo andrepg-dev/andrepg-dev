@@ -11,11 +11,11 @@ const app = express()
 
 app.get('/', (req, res) => {
   const andrepg_dev = {
-    inlovewith: ['Typescript', 'Javascript'],
+    inlovewith: ['Javascript', "TypeScript"],
     tools: [
-      'Angular',
       'React',
       'Next.js',
+      'Angular',
       'Node',
       'Express',
       'MongoDB',
