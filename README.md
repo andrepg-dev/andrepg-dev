@@ -34,7 +34,7 @@ app.get('/', (req, res) => {
 })
 
 app.listen(heart, () => {
-  console.log('Server running on my heart')
+  console.log('hear your heart')
 })
 ```
 
