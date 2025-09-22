@@ -34,7 +34,7 @@ app.get('/', (req, res) => {
 })
 
 app.listen(heart, () => {
-  console.log('hear your heart')
+  console.log('try to be rational for almots everything you do.')
 })
 ```
 
